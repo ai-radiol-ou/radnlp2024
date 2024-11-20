@@ -1,0 +1,1306 @@
+id,sentence_index,text
+56344,0,"Complete atelectasis of the left upper lobe.
+"
+56344,1,"74 mm mass with poor contrast enhancement, obstructing the left upper lobe bronchus, considered to be lung cancer. 
+"
+56344,2,"Enlargement of the left pulmonary hilum and ipsilateral mediastinal lymph nodes, suggesting lymph node metastases.
+"
+56344,3,"Enlarged lymph nodes on the right side of the trachea, also suspected to be lymph node metastases."
+56344,4,"The left lower lobe bronchus is also infiltrated by the tumor and is narrowed. 
+"
+56344,5,"No pleural effusion. 
+"
+56344,6,Normal appearance of the visualized upper abdomen.
+133166,0,"Tumorous lesion with a diameter of 30 mm in the right lower lobe, S8."
+133166,1,Its margin is spiculated.
+133166,2,"There is a possibility of lung cancer, so thorough examination in pulmonary medicine is recommended. 
+"
+133166,3,"Cord-like opacity in the left lower lobe, similar to an inflammatory scar.
+"
+133166,4,Enlargement of a right hilar lymph node is suspected.
+133166,5,No pleural effusion.
+165742,0,"Pulmonary mass with a diameter of 5 cm in the right lung apex with spiculated margins, suspicious of lung cancer."
+165742,1,"Infiltration to the parietal pleura, suggesting T3. 
+"
+165742,2,"No significant findings in the other lobes.
+"
+165742,3,"No mediastinal or hilar lymph node enlargement.
+"
+165742,4,"No pleural effusion.
+"
+165742,5,"The left adrenal gland is enlarged, likely an adenoma.
+"
+165742,6,No significant findings in other abdominal organs.
+404886,0,"Tumorous lesion with a maximum diameter of 72 mm in the left lower lobe, suspicious of lung cancer. 
+"
+404886,1,"The left lower lobe bronchus is infiltrated by the tumor, and there are infiltrative opacities around the tumor. 
+"
+404886,2,"Associated obstructive pneumonia in the left lower lobe. 
+"
+404886,3,"The left hilum and ipsilateral mediastinal lymph nodes are enlarged, suspicious of lymph node metastases. 
+"
+404886,4,"The left axillary lymph nodes are enlarged, suspicious of lymph node metastases. 
+"
+404886,5,"Small amount of pleural effusion on the left. 
+"
+404886,6,"Osteolytic lesions in the proximal end of the left humerus and the left scapula, suspicious of bone metastases. 
+"
+404886,7,"Cystic lesion in the midline skin of the back, possibly a sebaceous cyst."
+463397,0,Prominent emphysematous changes.
+463397,1,"Irregular lobulated mass with a maximum diameter of 47 mm in the left upper lobe, with noticeable spiculated margins and pleural indentation."
+463397,2,This correlates to a known lung cancer with pleural invasion.
+463397,3,Hilar lymph nodes appear conglomerated.
+463397,4,No other pathological lymph node enlargement.
+463397,5,No pleural effusion.
+493069,0,"Solid mass with a diameter of 3 cm in the lower lobe of the left lung with spiculated margins, suspicious of primary lung cancer."
+493069,1,"A small nodule of 0.8 cm in size is seen within the same lobe, considered as T3. 
+"
+493069,2,"No significant findings in the other lobes.
+"
+493069,3,"Enlargement of the left hilar lymph nodes, suspicious of metastasis."
+493069,4,"No lymph node metastasis in the mediastinum or on the opposite side, considered as N1.
+"
+493069,5,"No pleural effusion.
+"
+493069,6,A small nodule in liver S5.
+493069,7,"It is a single lesion, but there is a possibility of metastasis.
+"
+493069,8,"Bilateral renal cysts.
+"
+493069,9,"No significant findings in the gallbladder, pancreas, or spleen.
+"
+493069,10,"No enlargement of the abdominal lymph nodes.
+"
+493069,11,No ascites.
+862683,0,"A 12 mm subpleural nodule in the right lower lobe, believed to be a finding of the known lung cancer."
+862683,1,Interstitial pneumonia is suspected in both lungs.
+862683,2,No pathological lymph node enlargement.
+862683,3,No pleural effusion.
+862683,4,Gallstones.
+906857,0,"A solid mass of approximately 30 mm is observed in the lower lobe of the left lung, suspicious of lung cancer."
+906857,1,"There is a 9 mm nodule in its vicinity, and an 8 mm nodule in S8, suspicious of same-side intralobar metastases."
+906857,2,Multiple soft tissue lesions spreading from the left pulmonary hilum to the mediastinum are suspicious of lymph node metastases.
+906857,3,"Multiple nodular lesions with ill-defined borders in the liver, suspicious of liver metastases."
+908422,0,"An irregular mass of 35 mm is observed in the left lower lobe, suspicious of lung cancer."
+908422,1,"In addition, a nodular shadow is seen on the ventral side of the above lesion, possibly a pulmonary metastasis."
+908422,2,"Enlarged lymph nodes are observed in the left hilum, suggesting metastases."
+908422,3,No pleural effusion.
+908422,4,"A hypovascular lesion is observed in the liver S5, which appears to be continuous with the gallbladder, suspicious of metastasis, or possibly gallbladder cancer."
+908422,5,Please evaluate in conjunction with clinical findings.
+908422,6,A cyst in the left kidney.
+908422,7,No ascites.
+1185427,0,"A 30 mm diameter tumor is observed in the right lower lobe, suspicious of lung cancer."
+1185427,1,"Accompanied by interlobar pleural indentation, visceral pleural invasion might be present."
+1185427,2,"There are multiple focal ground-glass opacities in both upper lobes, recommended for follow-up."
+1185427,3,No significant lymph node enlargement in the hilum or mediastinum.
+1185427,4,No pleural effusion.
+1538432,0,There is a tumor with a maximum diameter of 47 mm in the upper left lobe.
+1538432,1,"It has infiltrated the lower lobe, crossing the interlobar pleura."
+1538432,2,The hilar lymph nodes are fused with the tumor.
+1538432,3,No enlargement of the mediastinal lymph nodes is observed.
+1538432,4,There is no pleural effusion.
+1538432,5,No liver or adrenal metastasis is observed.
+1538432,6,No significant abnormalities are observed in the visualized abdominal organs.
+1679413,0,"Emphysematous changes.
+"
+1679413,1,"A 47 mm irregular mass in the left upper lobe, suspicious of lung cancer."
+1679413,2,"Possible invasion into the left pulmonary artery, as far as can be assessed with CT to a limited extent."
+1679413,3,"The mass is also close to the aortic arch.
+"
+1679413,4,"A small nodule is present in the right middle lobe, possibly inflammatory or metastasis, re-evaluation recommended in follow-up.
+"
+1679413,5,"No significant mediastinal lymph node enlargement.
+"
+1679413,6,No pleural effusion.
+1736655,0,S/P resection of right breast cancer.
+1736655,1,No sign of local recurrent tumor.
+1736655,2,Multiple masses are scattered in the mediastinum and right hilum.
+1736655,3,Lymph node metastasis is suspected.
+1736655,4,Differential diagnosis includes right hilar lung cancer and lymph node metastasis.
+1736655,5,"Subpleural nodules in the right upper lobe, possibly metastases."
+1736655,6,Predominantly subpleural interstitial changes such as reticular and linear opacities in the lower lobe.
+1736655,7,No pleural effusion.
+1736655,8,Hepatosplenomegaly.
+1856176,0,"A tumor with a major axis of 1 cm, which obstructs the airways from the right main bronchus to the lower lobe bronchus, is observed at the right hilum, suspecting known lung cancer."
+1856176,1,"Possible fusion of the mass with right hilar and subcarinal lymph nodes. 
+"
+1856176,2,Atelectasis of the right lower lobe.
+1856176,3,"There is a possibility that lung cancer may also be present here, but it is not conclusively assessable.
+"
+1856176,4,"Pleural effusion in the right chest.
+"
+1856176,5,"Ground-glass opacities in both lungs, suggesting pulmonary edema."
+1863157,0,"A nodule measuring 12 mm in diameter in the right lower lobe S8/9, increasing in size, suspected to be a known lung cancer."
+1863157,1,"Reticular opacities present in the right S6, likely inflammatory changes."
+1863157,2,"Calcified pleural plaques  on both sides, suggesting the possibility of asbestos-related disease."
+1863157,3,No significant enlargement of the mediastinal and hilar lymph nodes or other mediastinal lesions.
+1863157,4,No pleural effusion.
+1863157,5,Gallstones.
+1876861,0,"Signs of chronic pulmonary emphysema.
+"
+1876861,1,"An irregular tumor with a long diameter of 48 mm in the right lung apex, suspicious of primary lung cancer. 
+"
+1876861,2,"It is in contact with the pleura of the right lung apex, suspecting visceral pleural invasion. 
+"
+1876861,3,"No secondary tumor nodules.
+"
+1876861,4,"Several enlarged hilar and mediastinal lymph nodes on the right side, suspecting metastases. 
+"
+1876861,5,"No pleural effusion. 
+"
+1876861,6,"A tumor in the upper part of the left adrenal gland, suspicious of adrenal metastasis."
+1956050,0,"Emphysematous changes.
+"
+1956050,1,A mass is observed in the center of the left upper lobe.
+1956050,2,"The left upper lobe bronchus is interrupted proximally, and irregularity and narrowing are observed in the left pulmonary artery and vein, which are partially interrupted."
+1956050,3,"The mass corresponds to the known lung cancer.
+"
+1956050,4,"The left upper lobe is collapsed and the exact tumor size is not assessable conclusively, but the long diameter is considered to be slightly over 7 cm. 
+"
+1956050,5,"A spindle-shaped small nodule is observed in the right lower lobe, likely an inflammatory scar.
+"
+1956050,6,"No signs of lung metastases.
+"
+1956050,7,Enlarged lymph nodes are observed in the left hilum and on the left side of the aortic arch.
+1956050,8,"The latter is 9 mm in short diameter, nearly spherical, suspicious of metastasis. 
+"
+1956050,9,"No pleural effusion. 
+"
+1956050,10,No lesions suspected of metastasis in the visualized liver and adrenal glands.
+2021673,0,"A mass, approximately 12 cm in diameter, is observed primarily in the upper lobe of the left lung, extending across the interlobar pleura to the lower lobe of the left lung."
+2021673,1,The tumor is widely in contact with the mediastinum and pleura.
+2021673,2,"Osteolytic changes are observed in the left third rib, suggesting infiltration."
+2021673,3,"Enlarged lymph nodes are observed in the left hilum and near the aorta, suspicious of metastasis."
+2021673,4,"Several nodules of a few millimeters are observed in the upper lobe of the left lung, possibly metastasis."
+2021673,5,No lesions suspicious of metastasis in other lung fields.
+2021673,6,There is no pleural effusion.
+2021673,7,No lesions suspicious of bone metastasis.
+2195733,0,Findings of chronic pulmonary emphysema.
+2195733,1,"An irregular tumor with a long diameter of 35 mm in the left lower lobe S6, suspicious of primary lung cancer."
+2195733,2,Small nodules suspected of being peritumoral nodules are observed around the tumor.
+2195733,3,"Enlargement of the left hilar lymph nodes, suspicious of metastasis."
+2195733,4,No pleural effusion.
+2195733,5,"A hypodense nodule in the liver S5, suspicious of liver metastasis."
+2195733,6,Bilateral renal cysts.
+2195733,7,No significant intra-abdominal or retroperitoneal lymph node enlargement.
+2195733,8,"No soft tissue lesions suspected of disseminated metastases, and no ascites."
+2240304,0,"46 mm mass in the right upper lobe, suspicious of lung cancer."
+2240304,1,"The tumor protrudes into the subpleural adipose tissue, suggesting pleural invasion on the parietal side. 
+"
+2240304,2,Enlargement of the mediastinal lymph nodes on the same side.
+2240304,3,"Although not significant in size, the lymph nodes on the opposite side are also slightly enlarged. 
+"
+2240304,4,"There are bullae in the apices of both lungs. 
+"
+2240304,5,"No pleural effusion. 
+"
+2240304,6,"There is a tumor in the left adrenal gland, suspicious of metastasis."
+2254357,0,"A tumor with a diameter of 12 cm is observed spreading across the upper and lower lobe of the left lung, corresponding to known lung cancer."
+2254357,1,It is in extensive contact with the pleura and is accompanied by the destruction of the left 3rd rib.
+2254357,2,Rib and parietal pleural infiltration is suspected.
+2254357,3,"There are small nodules in the left upper lobe, suspicious of secondary tumor nodules."
+2254357,4,"The left mediastinal and bilateral hilar lymph nodes are enlarged, suspicious of metastasis."
+2254357,5,No pleural effusion.
+2254357,6,No obvious abnormalities are observed in the visualized upper abdomen.
+2298369,0,"A nodule protruding into the lumen of the right main bronchus and the intermediate bronchus, considered to be a known cancer lesion."
+2298369,1,The longest diameter is 17 mm.
+2298369,2,"Due to this, the right middle lobe bronchus and right lower lobe bronchus are obstructed, and the right middle and lower lobes of the lung are collapsed."
+2298369,3,No significant abnormalities in other areas of the lung.
+2298369,4,There is no pathological enlargement of the mediastinal and hilar lymph nodes.
+2298369,5,A small amount of right pleural effusion.
+2298369,6,No significant abnormalities in the visualized upper abdomen.
+2298369,7,No destruction or sclerosis that would be suspicious of metastasis in the visualized bones.
+2343928,0,No comparable imaging studies available.
+2343928,1,"A lobulated tumor mass, approximately 47 mm in diameter, in the hilum of the left upper lobe, which is considered to be a known finding of lung cancer."
+2343928,2,"The lesion appears to surround the bronchus of the left upper lobe, suggesting bronchial stenosis."
+2343928,3,"Expansion into the mediastinum is also suspected, and the boundary with the left main pulmonary artery cannot be assessed conclusively on the current CT."
+2343928,4,"Please consider evaluation with contrast-enhanced CT. 
+"
+2343928,5,"No significant lymph node enlargement in the mediastinum or hilum. 
+"
+2343928,6,"No pleural effusion. 
+"
+2343928,7,"No obvious abnormalities in the visualized upper abdomen. 
+"
+2343928,8,"No ascites. 
+"
+2343928,9,No other significant findings.
+2538844,0,"A large tumorous lesion (primary focus 12 cm), centered in the upper lobe of the left lung."
+2538844,1,"There is extensive contact with the visceral pleura, and pleural invasion is suspected."
+2538844,2,"Some subpleural adipose tissue is irregular, and invasion into the chest wall is also suspected."
+2538844,3,"The cortical bone of the left third rib is also irregular, suspicious of rib invasion.
+"
+2538844,4,"No pulmonary metastasis.
+"
+2538844,5,"Enlargement of the left hilum and mediastinal lymph nodes, suspicious of metastasis."
+2932043,0,"A mass of approximately 74 mm is observed in the upper lobe of the left lung, not containing any air."
+2932043,1,Primary lung cancer is suspected.
+2932043,2,"The central bronchus is obstructed by the tumor, leaving the upper lobe of the left lung in an almost completely atelectatic state. 
+"
+2932043,3,No pulmonary nodules.
+2932043,4,"There are no findings suggesting lung metastasis.
+"
+2932043,5,Infiltration into the left hilar lymph nodes is suspected.
+2932043,6,"There is no mediastinal lymph node enlargement.
+"
+2932043,7,No distant metastasis visualized.
+2987117,0,"Emphysema.
+"
+2987117,1,A mass with a maximum diameter of 4.7 cm in the upper lobe of the left lung.
+2987117,2,"The tumor has a lobulated shape and spiculated margins, suggesting primary lung cancer."
+2987117,3,"Infiltration into the mediastinal fat is observed, raising suspicion for T4.
+"
+2987117,4,"No tumorous lesions in other lung fields.
+"
+2987117,5,"On non-contrast CT, no pathological enlargement is observed in the pulmonary hilum, mediastinum, or supraclavicular lymph nodes.
+"
+2987117,6,"No pleural effusion.
+"
+2987117,7,No significant findings in the visualized abdomen.
+3029476,0,"A lobulated tumor with a diameter of 40 mm in the right lower lobe, suspicious of primary lung cancer."
+3029476,1,There is bronchiectasis with mucus retention below the tumor.
+3029476,2,"Ground-glass opacities in the right upper lobe, likely inflammatory.
+"
+3029476,3,"Enlargement of the right hilar and mediastinal lymph nodes, suspicious of metastasis.
+"
+3029476,4,"No pleural effusion.
+"
+3029476,5,"Multiple hypodense nodules in the liver, suspicious of metastasis.
+"
+3029476,6,"Dilation of the common bile duct and intrahepatic bile duct.
+"
+3029476,7,Renal cysts.
+3072861,0,A lobulated mass containg a cavity of 30 mm in diameter in the lower lobe of the left lung.
+3072861,1,Traction of the interlobar fissure and a spiculated margin are also observed.
+3072861,2,The mass is considered to be the known lung cancer.
+3072861,3,"A secondary tumor nodule is suspected within the same lobe.
+"
+3072861,4,"The left hilar lymph node is enlarged.
+"
+3072861,5,No obvious metastasis in the upper abdomen.
+3384646,0,"A mass with a maximum diameter of 7.2 cm in the lower lobe of the left lung, suspicious of lung cancer."
+3384646,1,"It is considered T4.
+"
+3384646,2,"Stenosis of the airway caused by the tumor, and an increased density in the peripheral lung field, suspecting obstructive pneumonia.
+"
+3384646,3,Thickening of the pleura adjacent to the tumor and a small amount of pleural effusion.
+3384646,4,"Pleural invasion and malignant pleural effusion are suspected.
+"
+3384646,5,"No tumorous lesions in other lung fields.
+"
+3384646,6,Enlargement of a mediastinal lymph node level 4L is observed.
+3384646,7,"It is considered N2.
+"
+3384646,8,"Osteolytic lesions in the left humerus and scapula, suspicious of metastasis.
+"
+3384646,9,Metastasis is also observed in the left axillary lymph nodes.
+3384646,10,"This is distant metastasis.
+"
+3384646,11,"No significant findings in the visualized abdominal organs.
+"
+3384646,12,A subcutaneous lesion suspected of being a sebaceous cyst on the back.
+3599413,0,"There is a 17 mm protruding lesion in the right bronchial lumen. 
+"
+3599413,1,"It is considered to be the known lesion.
+"
+3599413,2,"The right upper lobe bronchus is patent, but the bronchus intermedius is obstructed by the tumor."
+3599413,3,"Atelectasis is evident in the right middle and lower lobes.
+"
+3599413,4,"There is a small amount of pleural effusion on the right.
+"
+3599413,5,"The right hilum and ipsilateral mediastinal lymph nodes are enlarged, considered to be lymph node metastases."
+4092235,0,"A 12 mm nodule is observed in the right lower lobe, which has increased in size compared to the CT in August 2012, possibly lung cancer.
+"
+4092235,1,"Ground-glass opacities and reticular opacities are seen mainly in the subpleural area of the lower lung field, suggesting interstitial pneumonia. 
+"
+4092235,2,"No significant lymph node enlargement in the hilum and mediastinum, as far as this can be assessed on non-contrast CT.
+"
+4092235,3,"Thickening and calcification of the left pleura, suggesting pleural plaques. 
+"
+4092235,4,"No pleural effusion. 
+"
+4092235,5,Gallstones.
+4166189,0,A tumor with a major axis of 12 cm in the left upper lobe of the lung.
+4166189,1,Infiltration of the aortic arch and pulmonary artery is suspected.
+4166189,2,"This is considered T4.
+"
+4166189,3,"Enlargement of the left pulmonary hilum and a mediastinal lymph node in level 6 is observed, suspicious of metastases."
+4166189,4,"This is considered N2.
+"
+4166189,5,"No pleural effusion is observed.
+"
+4166189,6,Bone destruction due to the tumor is observed in the left 3rd rib.
+4166189,7,"No findings suggesting distant metastasis to the visualized bones.
+"
+4166189,8,No significant findings in the visualized abdomen.
+4465068,0,"No comparable imaging studies are available.
+"
+4465068,1,There are multiple enlarged lymph nodes with heterogeneous enhancement in the right hilum and mediastinum.
+4465068,2,"S/P resection of right breast cancer, but there is no significant lymph node enlargement in other areas, suggesting lymph node metastasis of small cell lung cancer.
+"
+4465068,3,Nodules of about 1 cm in the right upper lobe and 5 mm in the right lower lobe.
+4465068,4,"Although there is a possibility of primary or metastatic lesions, the polygonal shape suggests benign lesions such as old granulomas.
+"
+4465068,5,"Interstitial changes such as ground-glass opacities, reticular opacities, and cystic changes are seen on the dorsal side of both lower lobes.
+"
+4465068,6,"No other obvious active lesions in the lung field.
+"
+4465068,7,Postoperative changes in the right breast.
+4465068,8,"No obvious tumors or abnormal enhancement at the resection site or in the left breast.
+"
+4465068,9,"There is no pleural effusion.
+"
+4465068,10,A hypodense lesion in the right lobe of the thyroid gland.
+4465068,11,"Correlation with ultrasound recommended.
+"
+4465068,12,"No obvious abnormalities in the visualized upper abdomen.
+"
+4465068,13,"There is no ascites.
+"
+4465068,14,No other significant findings.
+4624494,0,There is an irregular mass with a diameter of 50 mm in the apex of the right lung.
+4624494,1,"It appears to protrude into the subpleural adipose tissue near the origin of the right second rib, and pleural invasion on the visceral side may be present."
+4624494,2,"The right hilum and mediastinal lymph nodes are slightly enlarged, but not of significant size."
+4624494,3,Emphysematous changes in the lungs.
+4624494,4,"There are subpleural ground-glass and reticular opacities, which are considered to be interstitial changes."
+4624494,5,No pleural effusion.
+4644367,0,"Mass of 72 mm in the left lower lobe, suspicious of lung cancer."
+4644367,1,"Infiltratative opacities and ground-glass opacities are seen on the peripheral side, suggesting obstructive pneumonia."
+4644367,2,"Enlarged lymph nodes in the mediastinum, above the left clavicle, and in the left axilla, suggesting metastases."
+4644367,3,Small amount of left pleural effusion.
+4644367,4,"Osteolytic lesions in the left scapula and humerus, suspicious of metastases."
+4644367,5,"Subcutaneous lesion on the back, which is considered to be a sebaceous cyst or similar."
+4646850,0,"Pulmonary emphysematous changes. 
+"
+4646850,1,"There is an irregularly margined mass in the lower lobe of the left lung, approximately 35 mm in diameter, considered to be the known lung cancer. 
+"
+4646850,2,"Apart from this tumor, a nodule of 8 mm in diameter is present in the left lower lobe, suspicious of metastasis. 
+"
+4646850,3,"No other lesions suggesting lung metastasis. 
+"
+4646850,4,"Pathologically enlarged lymph nodes in the left hilum, suspicious of metastasis. 
+"
+4646850,5,"No pathological enlargement of lymph nodes in the mediastinum or supraclavicular fossa. 
+"
+4646850,6,"No pleural effusion is present. 
+"
+4646850,7,"In the liver, two hypovascular tumors with ill-defined margins are observed in the gallbladder bed, suspicious of metastasis. 
+"
+4646850,8,"These tumors are in contact with the gallbladder, and diffuse wall thickening is observed in the gallbladder."
+4646850,9,"Therefore, infiltration into the gallbladder is considered. 
+"
+4646850,10,"No lesions suggestive of adrenal metastasis. 
+"
+4646850,11,"Bilateral renal cysts. 
+"
+4646850,12,"No significant abnormal findings in other abdominal organs. 
+"
+4646850,13,"No pathological enlargement of abdominal lymph nodes. 
+"
+4646850,14,"No ascites is present. 
+"
+4646850,15,No bone destruction or sclerotic lesions suggestive of bone metastasis.
+4760374,0,"A lobulated tumor mass with a diameter of 40 mm is present in segment S6 of the right lower lobe of the lung, suspicious of lung cancer."
+4760374,1,"A ground-glass nodule with lobulated margins is present in segment S2 of the right upper lobe, which may also be lung cancer (adenocarcinoma in situ).
+"
+4760374,2,Emphysematous changes in the lung.
+4760374,3,"No metastases or other lesions in the lungs.
+"
+4760374,4,"The right upper paratracheal lymph node is enlarged, suggesting metastasis."
+4760374,5,"Enlarged lymph nodes are also suspected at the right hilum.
+"
+4760374,6,"A small amount of pleural effusion is present.
+"
+4760374,7,Multiple hypodense tumors are found in the liver.
+4760374,8,"Gallstones and common bile duct stones are found, and the intrahepatic bile ducts and the common bile duct are dilated."
+4760374,9,"There are no CT findings suggesting biliary tumors such as thickening of the bile duct wall, and liver metastasis from lung cancer is more likely.
+"
+4760374,10,"Multiple enlarged lymph nodes at the hepatic hilum, which also suggests the possibility of metastasis.
+"
+4760374,11,"There are no obvious abnormalities in the pancreas, spleen, kidneys, adrenal glands, or pelvic organs.
+"
+4760374,12,Ascites is present.
+4844803,0,"Moderate emphysematous changes in the lungs.
+"
+4844803,1,An irregularly margined tumor is observed in the central part of the left upper lung lobe.
+4844803,2,The margins are spiculated and the tumor has a maximum diameter of 47 mm.
+4844803,3,It is considered to be the known lung cancer.
+4844803,4,"The tumor is  in broad contact with the interlobar pleura.
+"
+4844803,5,"The left pulmonary artery upper lobe branch is in broad contact with the tumor, and infiltration is suspected.
+"
+4844803,6,"The left upper lobe bronchus is compressed and narrowed by the tumor.
+"
+4844803,7,There are scattered tiny nodules in both lung fields.
+4844803,8,"Due to their small size, differentiation is difficult."
+4844803,9,"Many are rectangular, and are mostly considered benign lesions, but it is possible that some of them are metastases.
+"
+4844803,10,"No pathological enlargement in the mediastinal and hilar lymph nodes.
+"
+4844803,11,"No pleural effusion.
+"
+4844803,12,"No gross lesions in the visualized upper abdomen, as far as can be assessed by CT.
+"
+4844803,13,No bone destruction or bone sclerosis suggesting metastasis visualized.
+4850448,0,"Mild emphysematous changes of the lungs are present. 
+"
+4850448,1,The left upper lobe is atelectatic.
+4850448,2,"An irregular soft tissue mass is located centrally, suggesting the possibility of lung cancer."
+4850448,3,"There is a possibility of infiltration into the mediastinum.
+"
+4850448,4,"Left hilar lymph nodes are enlarged, suggesting the possibility of metastasis."
+4850448,5,"Enlarged lymph nodes are also suspected in the same side mediastinum, suggesting the possibility of metastasis.
+"
+4850448,6,A small amount of left pleural effusion is present.
+5033297,0,"No comparable imaging studies are available. 
+"
+5033297,1,"A lobulated tumor mass, approximately 30 mm in diameter is present in S6 of the left lower lobe of the lung."
+5033297,2,This is considered lung adenocarcinoma.
+5033297,3,"A nodule of about 9 mm in diameter is in contact with the lesion, and a nodule of 8 mm in contact with the interlobar pleura is also seen within the same lobe, considered to be secondary tumor nodules. 
+"
+5033297,4,"No findings suggesting metastasis in other lobes of the lung. 
+"
+5033297,5,"Bullae are present in both lung apices. 
+"
+5033297,6,"Enlargement of the left hilar lymph nodes, suspicious of metastasis."
+5033297,7,"No significant lymph node enlargement in other areas. 
+"
+5033297,8,"No pleural effusion. 
+"
+5033297,9,"An ill-defined hypodense lesion is present in the liver in contact with the gallbladder, suspicious of metastasis. 
+"
+5033297,10,"There are cysts and stones in both kidneys. 
+"
+5033297,11,"No obvious abnormalities in the gallbladder, pancreas, spleen, adrenal glands, or pelvic organs. 
+"
+5033297,12,"No significant lymph node enlargement in the abdomen and pelvis. 
+"
+5033297,13,"No ascites. 
+"
+5033297,14,No other significant findings.
+5073667,0,There is a solid tumor of 30 mm in S8 of the right lower lung lobe.
+5073667,1,It has a lobulated shape and is accompanied by pleural indentation.
+5073667,2,No sign of invasion beyond the interlobar pleura.
+5073667,3,No pulmonary metastasis.
+5073667,4,"There is a small nodule in the apex of the right lung, follow up recommended."
+5073667,5,No pleural effusion.
+5073667,6,No gross abnormalities in the visualized abdominal organs.
+5582789,0,"A soft tissue mass is present in the right hilum, suspected to be a conglomerate of lung cancer and hilar lymph node metastasis."
+5582789,1,Size evaluation is difficult.
+5582789,2,"The mass is in contact with the tracheal bifurcation and major blood vessels, suggesting invasion."
+5582789,3,"It is considered T4.
+"
+5582789,4,A small round subpleural nodule is present in the right middle lobe.
+5582789,5,"Based on its morphology, there is a possibility of metastasis.
+"
+5582789,6,"There is mediastinal lymph node metastasis on the right, but the opposite side lymph nodes are not enlarged."
+5582789,7,"It is considered N2.
+"
+5582789,8,"Reticular opacities and ground-glass opacities are observed in the lower lobes of both lungs, suspecting interstitial pneumonia.
+"
+5582789,9,"No significant findings in the opposite lung.
+"
+5582789,10,"No pleural effusion.
+"
+5582789,11,"A hypodense nodule is present in the right lobe of the thyroid, recommended to follow up with ultrasound.
+"
+5582789,12,"No tumorous lesions in the liver or adrenal glands.
+"
+5582789,13,"No significant findings in the gallbladder, pancreas, or spleen."
+6231900,0,"A tumor-like lesion with irregular margins, measuring up to 72 mm in diameter, is present on the mediastinal side of the left lower lobe of the lung."
+6231900,1,The lesion shows heterogenous contrast enhancement.
+6231900,2,It is considered to correlate to the known cancer.
+6231900,3,"The tumor is widely in contact with the pleura, but without clear mediastinal invasion."
+6231900,4,"The left lower lobe bronchus is severely narrowed or occluded, and ground-glass opacities and infiltrative consolidations suggesting obstructive pneumonia are observed around the tumor."
+6231900,5,"Also, thickening of the interlobular septa is seen around the tumor, possibly lymphangitic carcinomatosis."
+6231900,6,No lesions suspicious of metastasis to other lobes of the lung.
+6231900,7,"There are numerous rounded enlarged peritracheal and axillary lymph nodes on the left, suggestive of metastasis."
+6231900,8,A small amount of left pleural effusion is present.
+6231900,9,No metastasis to the visualized liver or adrenal glands.
+6231900,10,"There are osteolytic lesions in the proximal part of the left humerus and the left scapula, considered to be metastases."
+6232953,0,"No comparable imaging studies are available. 
+"
+6232953,1,A tumor of approximately 17 mm in diameter is observed at the right main bronchus.
+6232953,2,"The bronchial lumen is narrowed and there is atelectasis peripheral thereof. 
+"
+6232953,3,"Soft tissue lesions, which are considered to be enlarged lymph nodes, are observed under the right hilum and the bifurcation of the trachea, suspicious of metastasis. 
+"
+6232953,4,"There are no obvious metastases or other active lesions in the lungs. 
+"
+6232953,5,"No pleural effusion. 
+"
+6232953,6,"No obvious abnormalities in the visualized upper abdomen. 
+"
+6232953,7,"No ascites. 
+"
+6232953,8,No other significant findings.
+6363776,0,"Numerous tumorous lesions spreading from the right pulmonary hilum to the mediastinum, suspected to be small cell carcionma with lymph node enlargement."
+6363776,1,"A nodule is present in the peripheral S3 of the right upper lobe, suspicious of pulmonary metastasis."
+6363776,2,"In addition, there are scattered fine granular opacities, also suspicious of pulmonary metastases."
+6441303,0,"Emphysematous changes are prominent in the lungs. 
+"
+6441303,1,"There is a lobulated tumor of 40 mm in diameter in the right lower lobe, suggesting lung cancer."
+6441303,2,"Multiple nodules and increased opacity along the airway in the surrounding area suggest obstructive pneumonia or metastatic nodules. 
+"
+6441303,3,"Ground-glass nodules are scattered in the right upper lobe, which may be inflammatory changes, but should be followed up to rule out malignancy. 
+"
+6441303,4,"The right hilar and pretracheal lymph nodes are enlarged and rounded, suggesting metastasis. 
+"
+6441303,5,"There are numerous ring-enhancing hypodense lesions in the liver, considered to be multiple liver metastases. 
+"
+6441303,6,Gallstones.
+6441303,7,"Renal cysts. 
+"
+6441303,8,Ascites.
+6574876,0,"There are multiple enlarged lymph nodes in the right mediastinum and right hilum, consistent with known small cell carcinoma."
+6574876,1,"A small nodule is observed in the right upper lobe S3, possibly a metastatic nodule. 
+"
+6574876,2,"There is mild interstitial opacitiy in the peripheral lung, possibly interstitial pneumonia. 
+"
+6574876,3,"No pleural effusion. 
+"
+6574876,4,"Postoperative changes in the right breast. 
+"
+6574876,5,"No significant axillary lymph node enlargement. 
+"
+6574876,6,No obvious abnormalities in the visualized upper abdomen.
+6778649,0,"A tumor is present in the left pulmonary hilum, suggesting lung cancer."
+6778649,1,"The right upper lobe bronchus is obstructed due to tumor infiltration, resulting in atelectasis of the left upper lobe."
+6778649,2,The border between the tumor and the atelectasis is difficult to evaluate.
+6778649,3,The left pulmonary artery is in contact with the tumor and is narrowed.
+6778649,4,Infiltration is suspected.
+6778649,5,"Enlarged lymph nodes are observed in the left pulmonary hilum and mediastinum, suggesting metastasis."
+6778649,6,"Enlarged lymph nodes are also prominent in the right pulmonary hilum, possibly metastasis."
+6778649,7,No findings suggest secondary tumor nodules in the lungs.
+6778649,8,Small left pleural effusion.
+6778649,9,No obvious abnormalities in the visualized upper abdomen.
+6793001,0,"A 12 cm large tumor is present in the left lung apex, suggesting lung cancer."
+6793001,1,Destruction of the left 3rd rib suggests infiltration.
+6793001,2,No significant lymph node enlargement in the mediastinum.
+6793001,3,There is no pleural effusion.
+6848850,0,"Emphysema in both lungs.
+"
+6848850,1,A lobulated tumorous lesion is present in the lower lobe of the right lung (maximum diameter 37×37×40mm).
+6848850,2,Primary lung cancer is suspected.
+6848850,3,Soft tissue masses are found in the bronchi.
+6848850,4,"Bronchial mucus plugs are observed.
+"
+6848850,5,"Faint ground-glass opacities are scattered in both lungs.
+"
+6848850,6,"Lymph node enlargement is found in the mediastinum, suspicious of metastasis.
+"
+6848850,7,"Numerous nodules are found in the liver, suspected to be multiple liver metastases.
+"
+6848850,8,"Nodules are also observed in the hepatoduodenal ligament, possibly lymph node metastases.
+"
+6848850,9,The common bile duct is dilated with stones present in the duct.
+6861476,0,"There is a tumor with a major axis of 72 mm in the left lower lobe, suspicious of lung cancer."
+6861476,1,"The tumor protrudes into the mediastinum and is in contact with the descending thoracic aorta, suggesting mediastinal invasion."
+6861476,2,"There is interstitial thickening around the tumor, possibly carcinomatous lymphangitis.
+"
+6861476,3,"There is lymph node enlargement below the tracheal bifurcation, metastasis cannot be ruled out."
+6861476,4,"In addition, multiple left axillary lymph nodes are enlarged, suspicious of metastasis.
+"
+6861476,5,"There is tumor formation in the head of the left humerus and in the scapula, suggesting bone metastasis."
+7127615,0,There is a tumor with a long diameter of 50 mm in the right lung apex with spiculated margins.
+7127615,1,The morphology suggests lung cancer.
+7127615,2,"Emphysematous changes in both lungs. 
+"
+7127615,3,No pathological lymph node enlargement.
+7127615,4,"No pleural effusion.
+"
+7127615,5,No coarse lesions in the upper abdomen.
+7245712,0,A tumor that has become a conglomerate with the hilar lymph nodes is seen on the central side of the left upper lobe.
+7245712,1,"The left upper lobe bronchus is obstructed, and atelectasis is present, making it difficult to measure the size of the tumor."
+7245712,2,"The tumor protrudes into the mediastinum, suggesting mediastinal invasion.
+"
+7245712,3,"There is enlargement of the mediastinal lymph nodes on the same side, suspicious of metastasis.
+"
+7245712,4,"A small amount of pleural effusion on the left, which might be malignant pleural effusion."
+7467648,0,"An irregular mass of 30 mm in size is observed in the right lower lobe, considered to be the suspected lung cancer. 
+"
+7467648,1,"A pure GGN is present in the left lung apex, which should be checked in follow-up. 
+"
+7467648,2,"Striated opacities suspicious of inflammatory scars are seen in both lower lobes. 
+"
+7467648,3,"No significant lymph node enlargement in the mediastinum. 
+"
+7467648,4,There is no pleural effusion.
+7516987,0,"There is a small subpleural nodule in the right upper lobe of the lung, S3, possibly lung cancer.
+"
+7516987,1,"There are subpleural reticular opacities of both lungs, suspecting interstitial pneumonia.
+"
+7516987,2,"The right hilar, ipsilateral, and contralateral mediastinal lymph nodes are enlarged, considered to be lymph node metastasis.
+"
+7516987,3,"No pleural effusion.
+"
+7516987,4,"No liver or adrenal metastasis.
+"
+7516987,5,No gross abnormalities in the visualized abdominal organs.
+7547062,0,"Compared with the CT from August 2012.
+"
+7547062,1,A nodule of about 12 mm in diameter is located in S9 of the right lower lobe.
+7547062,2,"In the CT from August 2012, a focal ground-glass opacity was seen in the same area, which seems to be progressing."
+7547062,3,"Lung cancer is known, and this lesion is considered cancerous based on the progression.
+"
+7547062,4,"Centrilobular emphysema is observed mainly in the upper lung.
+"
+7547062,5,"Mild interstitial changes are observed mainly in the periphery of both lower lobes.
+"
+7547062,6,"There are no obvious metastases or other active lesions in the lungs.
+"
+7547062,7,"There is no significant lymph node enlargement in the mediastinum or hilum.
+"
+7547062,8,There is no pleural effusion.
+7547062,9,"There is thickening with calcification in the left pleura, suggesting pleural plaques.
+"
+7547062,10,"Arteriosclerotic changes.
+"
+7547062,11,Gallstones.
+7547062,12,"There are no other obvious abnormalities in the visualized upper abdomen.
+"
+7547062,13,"No ascites.
+"
+7547062,14,No other significant findings.
+7616690,0,"Emphysema is observed.
+"
+7616690,1,"Subpleural reticular opacities and ground-glass opacities are seen in both lower lobes, suggesting interstitial changes.
+"
+7616690,2,There is a solid subpleural tumor with a long diameter of 1.2 cm of the right lower lobe.
+7616690,3,"Compared to the previous examination, it has increased in size, suggesting primary lung cancer."
+7616690,4,"It is considered T1b.
+"
+7616690,5,"No enlargement of the mediastinal and axillary lymph nodes.
+"
+7616690,6,"No pleural effusion.
+"
+7616690,7,"Calcified pleural thickening, suggesting pleural plaques.
+"
+7616690,8,"Coronary calcification.
+"
+7616690,9,"No tumorous lesions in the liver and adrenal glands.
+"
+7616690,10,"Gallstones.
+"
+7616690,11,No significant findings in the visualized abdominal organs.
+7656084,0,"No comparable imaging studies are available. 
+"
+7656084,1,A tumor mass measuring 12 cm in diameter is observed in the left lung apex.
+7656084,2,"The tumor extends to the chest wall and ribs, accompanied by bone destruction."
+7656084,3,"This is considered indicative of lung cancer with chest wall invasion. 
+"
+7656084,4,"No obvious metastasis or other active lesions in the lung field. 
+"
+7656084,5,"Enlarged lymph nodes in the left hilum and mediastinum, suggesting possible metastasis. 
+"
+7656084,6,"No other significant lymph node enlargement visualized. 
+"
+7656084,7,"No pleural effusion. 
+"
+7656084,8,"No obvious abnormalities in the visualized upper abdomen. 
+"
+7656084,9,"No ascites. 
+"
+7656084,10,No other significant findings.
+7751255,0,No comparable imaging studies are available.
+7751255,1,"A lobulated tumor mass, approximately 30 mm in diameter, is present in S8 of the right lower lobe of the lung, accompanied by a slight ground-glass opacity in its periphery."
+7751255,2,This is considered to be a finding of known lung cancer.
+7751255,3,"Multiple pure GGNs up to about 10 mm are found in the upper and lingular segments of the left lung, which can't be ruled out as neoplastic lesions such as atypical adenomatous hyperplasia (AAH)."
+7751255,4,There are no obvious metastases or other active lesions in the lungs.
+7751255,5,There is no significant lymph node enlargement in the mediastinum or hilum.
+7751255,6,There is no pleural effusion.
+7751255,7,There are no obvious abnormalities in the visualized upper abdomen.
+7751255,8,No ascites.
+7751255,9,No other significant findings.
+7793337,0,"A nodular infiltratative opacity of 30 mm in diameter is present in the right lower lobe S8, corresponding to known lung cancer."
+7793337,1,"It is in extensive contact with the interlobar pleura, suggesting infiltration."
+7793337,2,No findings suspicious of metastasic nodules are observed in both lungs.
+7793337,3,"Striated opacities are present in both lower lobes, likely inflammatory scarring.
+"
+7793337,4,"No significant enlargement of the mediastinal or hilar lymph nodes, or other mediastinal organ lesions.
+"
+7793337,5,"No pleural effusion.
+"
+7793337,6,No obvious abnormalities in the visualized upper abdomen.
+7943636,0,A nodular mass measuring 1.7 cm in diameter is found in the right main bronchus.
+7943636,1,"No lesions are seen in the bronchial bifurcation, thus the tumor is considered T2."
+7943636,2,Obstructive atelectasis is present.
+7943636,3,No significant findings in other lung segments.
+7943636,4,"Lymph nodes in the left supraclavicular fossa are enlarged, suspecting N3."
+7943636,5,Pleural effusion on the right.
+7943636,6,Please rule out malignant pleural effusion after confirming with cytology.
+7943636,7,No significant findings in the visualized abdominal organs.
+8100850,0,"There is a nodule measuring 17 mm in diameter in the right main bronchus, which correlates to the known mucinous squamous cell carcinoma."
+8100850,1,The right lower lobe bronchus is obstructed.
+8100850,2,The right lower lobe is collapsed.
+8100850,3,A small amount of pleural effusion on the right.
+8100850,4,No secondary tumor nodules in the ventilated lung.
+8100850,5,"There is a hypodense nodule directly below the left lobe of the thyroid, possibly lymph node metastasis.
+"
+8100850,6,"No significant enlargement of other mediastinal and hilar lymph nodes, or other mediastinal organic lesions.
+"
+8100850,7,"No pleural effusion.
+"
+8100850,8,No obvious abnormalities in the visualized upper abdomen.
+8221825,0,"A tumor with a major axis of 12 cm is located in the upper and lower lobe of the left lung, suspecting lung cancer."
+8221825,1,The tumor is destroying the third rib and infiltrating the chest wall.
+8221825,2,"Also, mediastinal infiltration is suspected, and it is in close proximity to the aortic arch."
+8221825,3,"There is a small nodule in the peripheral left upper lobe, a metastatic nodule cannot be ruled out."
+8221825,4,"The left hilar and ipsilateral mediastinal lymph nodes are enlarged, suspicious of metastasis."
+8235226,0,Moderate chronic pulmonary emphysema.
+8235226,1,"An irregular tumor with a long diameter of 47 mm is seen in the left upper lobe at the pulmonary hilum, suspicious primary lung cancer."
+8235226,2,"It is in extensive contact with the interlobar pleura, suggesting infiltration."
+8235226,3,Mediastinal fat infiltration is also suspected.
+8235226,4,No significant enlargement of mediastinal and hilar lymph nodes or other mediastinal organ lesions.
+8235226,5,No pleural effusion.
+8235226,6,No obvious abnormalities in the visualized upper abdomen.
+8602016,0,A soft tissue mass in the right hilum correlating to the suspected malignant tumor.
+8602016,1,"The right lower lobe is atelectatic.
+"
+8602016,2,"A nodule is seen above the left clavicle, possibly lymph node metastasis.
+"
+8602016,3,A small amount of pleural effusion on the right.
+8760223,0,There is a lobulated tumor with a maximum diameter of 40 mm in S6 of the right lower lobe.
+8760223,1,"It is surrounded by a ground-glass opacities, and it is considered to be lung cancer."
+8760223,2,"There is a tubular structure continuous with the tumor, and its lumen is enhanced."
+8760223,3,There is a possibility that the tumor has infiltrated the bronchus.
+8760223,4,"There is a focal ground-glass opacity in the right upper lobe, which could be a finding of lung cancer."
+8760223,5,No mediastinal lymph node enlargement.
+8760223,6,No pleural effusion.
+8760223,7,"There are multiple hypodense tumors in the liver, considered to be multiple liver metastases."
+8811397,0,"There is a lobulated irregular tumor measuring 46 mm in the right lung apex, which is considered to be known of lung cancer."
+8811397,1,"The right mediastinal lymph nodes are enlarged, suggesting metastasis."
+8811397,2,"The left adrenal gland is significantly enlarged, possibly metastasis."
+8811397,3,No pleural effusion.
+9175672,0,"Enlarged lymph nodes in the right pulmonary hilum and the mediastinum, raising suspicion for lung cancer."
+9175672,1,"Small lymph nodes can also be seen in the left mediastinum, but their size is not significant. 
+"
+9175672,2,"There is a nodule in the right upper lobe, considered to be a secondary tumor nodule within the same lobe.
+"
+9175672,3,"Ground-glass opacities and reticular opacities are distributed mainly in the lower lung and subpleural area on the right, consistent with interstitial pneumonia. 
+"
+9175672,4,"No pleural effusion.
+"
+9175672,5,The patient has a history of right breast cancer treatment.
+9175672,6,"No obvious local recurrence or axillary lymph node enlargement.
+"
+9175672,7,"The left adrenal gland is enlarged with an obvious tumor mass, but please follow up to rule out metastasis.
+"
+9175672,8,"No obvious metastasis in the liver, gallbladder, pancreas, spleen, or kidneys."
+9262204,0,"There is a 12 mm subpleural nodule of the right lower lobe in S9, surrounded by ground-glass opacity."
+9262204,1,"Compared to the CT in August 2012, it has increased in size, and we suspect lung cancer."
+9262204,2,"There are subpleural reticular opacities and ground-glass opacities in both lungs, consistent with interstitial pneumonia."
+9262204,3,"There is a cavitary lesion in the right lower lobe S6, which may be a post-inflammatory change."
+9262204,4,No pleural effusion.
+9262204,5,No lymph node enlargement.
+9262204,6,Gallstones.
+9262204,7,No other gross abnormalities in the visualized abdominal organs.
+9524486,0,Emphysema and interstitial changes in both lungs.
+9524486,1,Thickening and calcification of the pleura on both sides.
+9524486,2,"Asbestosis seems to be present.
+"
+9524486,3,"An irregular subpleural nodule is found in the right lung in S9 (approximately 12 mm), possibly primary lung cancer associated with asbestosis.
+"
+9524486,4,"Multiple mediastinal lymph nodes, but considering the size of the lung cancer, lymph node hyperplasia related to asbestosis or chronic inflammation is more likely."
+9635688,0,A dense ground-glass opacity measuring 30 mm in diameter is located in S8 of the right lower lung lobe.
+9635688,1,It is somewhat indistinct and partially lobulated.
+9635688,2,It is considered to be consistent with a cancerous lesion.
+9635688,3,"No clear pleural invasion.
+"
+9635688,4,"Multiple ground-glass opacities of several millimeters in both upper lung lobes, possibly pre-cancerous lesions, recommended for follow-up.
+"
+9635688,5,"No lesions suggestive of lung metastasis.
+"
+9635688,6,"A cord-like opacity is observed in the left lower lung lobe, considered to be a finding of old inflammatory changes.
+"
+9635688,7,"No pathological enlargement of the mediastinal and hilar lymph nodes.
+"
+9635688,8,"No pleural effusion.
+"
+9635688,9,"No significant abnormalities in the visualized upper abdomen.
+"
+9635688,10,No bone destruction or sclerotic lesions suggestive of metastasis in the visualized bones.
+9651856,0,"Plaques with some coarse calcification are scattered on both pleurae, suggesting asbestos-related pleural disease."
+9651856,1,Mild emphysematous changes of the lung parenchyma.
+9651856,2,"Ground-glass opacities and reticular opacities are seen in the peripheral lung parenchyma, predominantly in the lower lobes on both sides, suggesting interstitial pneumonia."
+9651856,3,"An irregular nodule is present on the pleura of the right lower lobe, with a long diameter of 12 mm, which is considered to be the indicated cancer lesion."
+9651856,4,No pleural invasion.
+9651856,5,No lesions suggesting lung metastasis.
+9651856,6,"There is no pathological enlargement of the mediastinal and hilar lymph nodes, or the supraclavicular lymph nodes."
+9651856,7,No pleural effusion.
+9651856,8,No metastasis in the visualized liver and adrenal glands.
+9651856,9,Gallstones.
+9651856,10,No signs of cholecystitis.
+9651856,11,No bone destruction or sclerotic lesions suggesting bone metastasis.
+9673524,0,There is a lobulated tumor with a maximum diameter of 46 mm in the right lung apex.
+9673524,1,It is accompanied by a ground-glass opacity around it.
+9673524,2,The tumor is considered to be lung cancer.
+9673524,3,No pleural effusion.
+9673524,4,"The right hilar, ipsilateral, and contralateral mediastinal lymph nodes are enlarged, suspicious of lymph node metastasis."
+9673524,5,No pleural effusion.
+9673524,6,"The left adrenal gland is enlarged, suspicious of adrenal metastasis."
+9745005,0,"Emphysema.
+"
+9745005,1,"There is a solid mass with a maximum diameter of 47 mm in the upper lobe of the left lung, without any air inside, suspicious of primary lung cancer."
+9745005,2,Invasion of the visceral pleura is suspected.
+9745005,3,"There are no findings suggesting lung metastasis.
+"
+9745005,4,No pathological lymph node enlargement in the mediastinum or hilum.
+9818606,0,"Emphysematous changes of the lung parenchyma.
+"
+9818606,1,A tumor with a diameter of 40 mm is located in the lower lobe of the right lung.
+9818606,2,"It has a lobulated shape, and lung cancer is strongly suspected."
+9818606,3,"There are multiple granular opacities and mucus plugs in the periphery, which are considered to be signs of obstructive pneumonia. 
+"
+9818606,4,Ground-glass opacities in both upper lobes of the lungs.
+9818606,5,Small nodules are scattered along the pleura of the left lung.
+9818606,6,"Both are suspected to be post-inflammatory changes. 
+"
+9818606,7,"No lesions suggestive of lung metastasis.
+"
+9818606,8,"Multiple rounded lymph nodes in the upper mediastinum without pathological enlargment, but likely to be metastases. 
+"
+9818606,9,"No pleural effusion. 
+"
+9818606,10,A faint hyperdense stone with a diameter of 13 mm is observed in the lower part of the common bile duct.
+9818606,11,"The upstream bile duct is dilated, which is considered to be due to stone impaction. 
+"
+9818606,12,Numerous gallstones.
+9818606,13,"The gallbladder is enlarged and its wall is thickened, possibly with accompanying inflammation.
+"
+9818606,14,"Multiple poorly defined hypodense tumors in the liver, primarily suspicious of metastes, but coexistence of liver abscesses is also considered.
+"
+9818606,15,"Multiple enlarged, nearly round lymph nodes in the porta hepatis, possibly metastases.
+"
+9818606,16,"No pathological enlargement of other abdominal lymph nodes. 
+"
+9818606,17,"No lesions suggestive of adrenal metastasis.
+"
+9818606,18,"There is a cyst in the left kidney. 
+"
+9818606,19,"No significant abnormalities in the pancreas and spleen. 
+"
+9818606,20,"No obvious tumors in the gastrointestinal tract. 
+"
+9818606,21,"Ascites. 
+"
+9818606,22,No bone destruction or sclerotic lesions strongly suggestive of metastasis in the visualized bones.
+9905822,0,"A tumor with a major axis of 4.6 cm is located in the right lung apex, surrounded by spiculated opacities."
+9905822,1,Primary lung cancer is suspected.
+9905822,2,"Pleural invasion is present at the lung apex, considered as T3.
+"
+9905822,3,"Bullae are scattered in the left upper lobe of the lung.
+"
+9905822,4,"Enlargement of the mediastinal lymph nodes in level 4R, suspecting metastasis."
+9905822,5,"No enlargement of the lymph nodes on the opposite side, considered as N2.
+"
+9905822,6,"No pleural effusion.
+"
+9905822,7,"There is a tumor with a major axis of 5.8 cm in the left adrenal gland, suspicious of metastasis."
+9905822,8,"No other lesions suspected of metastasis, considered as M1b.
+"
+9905822,9,No other significant findings in the visualized abdomen.
+10223615,0,A lobulated irregular mass of about 3 cm is located in the subpleural area of the peripheral right lung lower lobe in S8.
+10223615,1,"The main component is solid, but ground-glass opacities can also be seen in its periphery."
+10223615,2,Pleural retraction is also observed.
+10223615,3,Primary lung cancer is suspected.
+10320785,0,"Multiple tumors are present, spreading from the right hilum to the mediastinum."
+10320785,1,It is considered to be known small cell carcinoma and its metastases.
+10320785,2,"The size of the primary tumor is unknown.
+"
+10320785,3,"There is a pleura-based nodule in the right upper lobe, suspicious of metastasis.
+"
+10320785,4,"Reticular opacities are located in the peripheral lung parenchyma, predominantly in the lower lobe."
+10320785,5,"Interstitial pneumonia is suspected.
+"
+10320785,6,"No findings suggesting recurrence of breast cancer or lymph node metastasis in both breasts, parasternal, axillary, and supraclavicular fossa.
+"
+10320785,7,"No pleural effusion.
+"
+10320785,8,"No lesions suspected of metastasis in the visualized upper abdomen.
+"
+10320785,9,No bone destruction or bone sclerosis suggesting bone metastasis.
+10405379,0,"There is a nodule of 17 mm in diameter in the right main bronchus, which appears to be part of the known mucinous squamous cell carcinoma."
+10405379,1,"The right lower lobe branch is obstructed, causing atelectasis of the lower lobe."
+10405379,2,Pleural effusion on the right.
+10405379,3,No pathological lymph node enlargement.
+10405379,4,No significant lesions in the visualized upper abdomen.
+11013624,0,"There is a large 12 cm hypodense tumor in the left upper lobe, considered to be lung cancer."
+11013624,1,"It is widely in contact with the pleura on the mediastinal side, and pleural invasion is suspected."
+11013624,2,There is no direct invasion to the mediastinum.
+11013624,3,"The left pulmonary hilum and ipsilateral mediastinal lymph nodes are enlarged, suspicious of metases."
+11013624,4,The left third rib is directly invaded by the tumor.
+11013624,5,No pleural effusion.
+11013624,6,No adrenal metastasis.
+11044030,0,"There is a noticeable chain-like lymph node enlargement in the mediastinum, which is believed to be a known lymph node lesion."
+11044030,1,A small nodule is observed in the right upper lobe.
+11044030,2,Could this be a primary lung cancer lesion?
+11044030,3,No pleural effusion.
+11079957,0,"A solid tumor-like lesion of approximately 72 mm is located in the center of the left lung's lower lobe, S10."
+11079957,1,Primary lung cancer is suspected.
+11079957,2,"It is in contact with the pleura, and pleural invasion is suspected."
+11079957,3,"Pleural effusion and pleural thickening are noted, suspecting pleural dissemination.
+"
+11079957,4,"There are nodules in the upper lobe of the left lung, suspicious of intra-lobe metastasis on the same side.
+"
+11079957,5,"Numerous enlarged lymph nodes in the left axilla, suspicious of distant lymph node metastases.
+"
+11079957,6,"Osteolytic lesions in the left scapula and humerus, forming tumor-like masses, suggesting bone metastases.
+"
+11079957,7,"A nodule is observed in the mid-dorsal subcutaneous area, which is cystic, and a sebaceous cyst is suspected here."
+11117507,0,There is a 50 mm neoplastic lesion with spiculated margins in the right lung apex.
+11117507,1,"It is widely in contact with the pleura, and pleural invasion is suspected."
+11117507,2,There is no invasion to the ribs.
+11117507,3,"Both lungs have subpleural reticular opacities and ground-glass opacities, suggesting interstitial pneumonia."
+11117507,4,No lung metastasis.
+11117507,5,No pleural effusion.
+11117507,6,No liver or adrenal metastasis.
+11328933,0,"In the coronary reconstruction images, mixed ground-glass opacity (GGO) is observed in the right lower lobe of the lung, considered to be the known lung cancer."
+11328933,1,"The solid part is 3 cm in diameter, which is considered T1c.
+"
+11328933,2,A ground-glass nodule is also seen in the apex of the left lung.
+11328933,3,"Although small, it is nearly fully rounded and well-differentiated adenocarcinoma cannot be ruled out."
+11328933,4,"Please confirm histologically if there is an increase in size in follow-up.
+"
+11328933,5,"No mediastinal or hilar lymph node enlargement.
+"
+11328933,6,"No pleural effusion.
+"
+11328933,7,No significant findings in the visualized abdominal organs.
+11595888,0,"A 50 mm tumor is located in the apex of the right lung, in contact with the pleura."
+11595888,1,The tumor has irregular margins and spiculated appearance.
+11595888,2,"Osteolytic lesions are observed in the right second rib in contact with the tumor, suggesting infiltration."
+11595888,3,These findings strongly suggest lung cancer.
+11595888,4,Emphysematous changes are observed in the lung parenchyma.
+11595888,5,"Ground glass opacities and reticular opacities are present in the peripheral lung parenchyma, suggesting emphysema complicated by interstitial pneumonia."
+11595888,6,No findings suggestive of metastasis in the lungs.
+11595888,7,"Numerous mildly enlarged lymph nodes in the mediastinum and hilar region, which are considered to be reactive enlargement."
+11595888,8,There is no pathological enlargement.
+11595888,9,No pleural effusion.
+11595888,10,Diffuse enlargement of the thyroid gland.
+11595888,11,Please evaluate thyroid function.
+11595888,12,"There seems to be a tumor in the left adrenal gland, but it's only partially visualized and difficult to evaluate."
+11595888,13,"Due to the lack of native CT images, it is also difficult to evaluate density values and contrast enhancement."
+11595888,14,"There is a possibility of metastasis, so further detailed examination with MRI or PET is recommended."
+11595888,15,No significant abnormal findings in the visualized upper abdomen.
+11595888,16,No bone destruction or sclerotic lesions in the visualized bones.
+11604112,0,"Emphysematous changes of the lung parenchyma.
+"
+11604112,1,"An irregular mass is located in the apex of the right lung, which is considered to be a known cancer lesion."
+11604112,2,Its longest diameter is 46 mm.
+11604112,3,"It is widely in contact with the pleura, suggesting invasion."
+11604112,4,"However, clear invasion into the chest wall cannot be pointed out. 
+"
+11604112,5,"No lesions suspicious of lung metastasis. 
+"
+11604112,6,"Pathological enlargement of the lymph nodes near the trachea, suspicious of metastases."
+11604112,7,"No pathological enlargement in the supraclavicular lymph nodes. 
+"
+11604112,8,"No pleural effusion. 
+"
+11604112,9,"A coarse tumor is seen in the left adrenal gland, suspecting metastasis. 
+"
+11604112,10,"No significant abnormal findings in other visualized upper abdominal organs. 
+"
+11604112,11,No bone destruction or bone sclerosis suggesting metastasis in the visualized bones.
+11650032,0,"There is an irregular tumor measuring 35 mm in the distal part of the left lower lobe, accompanied by retraction of the interlobar pleura."
+11650032,1,"There is a nodule measuring 8 mm in the left lower lobe, suspected to be a metastatic nodule."
+11650032,2,"Lymph nodes in the left hilum are enlarged, suggesting metastasis."
+11650032,3,No significant mediastinal lymph node enlargement.
+11650032,4,No pleural effusion.
+11650032,5,"In the liver, there is a hypodense area near the gallbladder bed, suggesting multiple liver metastases."
+11650032,6,"There are edematous changes around the gallbladder, which may be due to portal vein congestion."
+11650032,7,Bilateral renal cysts.
+11650032,8,"No other obvious metastases, including in the adrenal glands."
+11650032,9,No para-aortic lymph node enlargement or ascites.
+11789977,0,"No comparable imaging studies are available.
+"
+11789977,1,Atelectasis is observed in the left lingular segment and part of the upper lobe.
+11789977,2,"No tumor can be seen centrally, but there is narrowing and obstruction of the airways from the left main bronchus to the peripheral bronchi, which is considered to be lung cancer accompanied by atelectasis.
+"
+11789977,3,"There are no obvious metastases or other active lesions in the lung parenchyma.
+"
+11789977,4,"A lymph node with a short diameter of about 9 mm is found in the left mediastinum, and metastasis is suspected.
+"
+11789977,5,"No significant lymphadenopathy in other areas.
+"
+11789977,6,Pleural effusion on the left.
+11789977,7,"There are no findings that suggest pleural dissemination, such as irregular thickening of the pleura.
+"
+11789977,8,"There are no obvious abnormalities in the visualized upper abdomen.
+"
+11789977,9,"There is no ascites.
+"
+11789977,10,There are no other significant findings.
+12912312,0,"No comparable imaging examinations are available.
+"
+12912312,1,A tumor mass of 72 mm in diameter is located in the lower lobe of the left lung.
+12912312,2,It is considered to correspond to known lung cancer.
+12912312,3,"There are no obvious metastases in the lungs.
+"
+12912312,4,"Emphysematous changes.
+"
+12912312,5,Pleural effusion on the left.
+12912312,6,"The pleura is slightly thickened, suggesting the possibility of dissemination.
+"
+12912312,7,"Numerous enlarged lymph nodes in the mediastinum, including below the bifurcation of the trachea, and in the left axilla, raising suspicion of metastasis."
+12912312,8,"No other significant lymph node enlargement visualized.
+"
+12912312,9,"Osteolytic tumors are observed in the left scapula and humerus, suggesting the possibility of bone metastasis.
+"
+12912312,10,"No obvious abnormalities are observed in the visualized upper abdomen.
+"
+12912312,11,"No ascites.
+"
+12912312,12,No other significant findings.
+12958437,0,"Emphysematous changes and bullae in the lung parenchyma. 
+"
+12958437,1,A tumorous lesion measuring 27 × 34 × 46 mm is observed in the right upper lobe of the lung.
+12958437,2,No intralesional air.
+12958437,3,Primary lung cancer is suspected.
+12958437,4,"It is in contact with the pleura, and visceral pleural invasion is suspected.
+"
+12958437,5,"The mediastinal lymph nodes are enlarged to about 15 mm, and mediastinal lymph node metastasis is suspected.
+"
+12958437,6,"A left adrenal nodule is observed (58mm), suspicious of metastasis."
+13029131,0,A tumor is located in the left pulmonary hilum.
+13029131,1,"It protrudes into parts of the upper lobe bronchus, and the periphery has become alectatic."
+13029131,2,"Towards the mediastinum, it is in contact with the heart and there is a possibility of invasion."
+13029131,3,"It is considered T4.
+"
+13029131,4,"Small nodules are scattered in the lower lobe of the right lung, but they are mainly polygonal and inflammatory nodules are suspected.
+"
+13029131,5,"There are multiple rounded masses in the left pulmonary hilum region, suspicious of lymph node metastases.
+"
+13029131,6,"No enlargement of the mediastinal lymph nodes.
+"
+13029131,7,"No pleural effusion.
+"
+13029131,8,No significant findings in the visualized abdominal organs.
+13358309,0,"There is a tumor with a maximum diameter of 30 mm in the left lower lobe S6, and a focal ground-glass opacity of 9 mm in contact with the tumor. 
+"
+13358309,1,"In addition, there is a nodule of 8 mm along the interlobar pleura of the left lower lobe S6. 
+"
+13358309,2,"Lung cancer and pulmonary metastases are suspected. 
+"
+13358309,3,"The left hilar lymph nodes are enlarged, considered to be metastases.
+"
+13358309,4,"No pleural effusion. 
+"
+13358309,5,"There is an hypodense tumor in the liver, segment S5, considered to be metastasis.
+"
+13358309,6,"Bilateral renal cysts are present. 
+"
+13358309,7,"There is a noticeable accumulation of feces in the colon. 
+"
+13358309,8,"No significant abnormalities in other abdominal organs. 
+"
+13358309,9,"No ascites. 
+"
+13358309,10,No obvious enlargement of abdominal lymph nodes.
+13567317,0,Interstitial pneumonia and pulmonary emphysema.
+13567317,1,"A condition that is prone to the development of lung cancer, such as emphysema combined with pulmonary fibrosis, is suspected.
+"
+13567317,2,A tumorous lesion of approximately 50 mm is located mainly in the right upper lobe of the lung.
+13567317,3,"Primary lung cancer is suspected.
+"
+13567317,4,"Infiltration into the visceral pleura is suspected.
+"
+13567317,5,"Soft tissue masses are found from the right hilum to the mediastinum, possibly lymph node metastases."
+13658329,0,There is suspicion of chronic pulmonary emphysema in the lung parenchyma.
+13658329,1,"A tumor with a long diameter of 50 mm with spiculated margins and extensive contact to the pleura, is located in the right lung apex."
+13658329,2,Lung cancer with visceral pleural invasion is suspected.
+13658329,3,No obvious secondary tumor nodules in the lungs.
+13658329,4,No significant enlargement of the mediastinal and hilar lymph nodes or other mediastinal organ lesions.
+13658329,5,No pleural effusion.
+13658329,6,No obvious abnormalities in the visualized upper abdomen.
+14133008,0,"There is a 72 mm tumor in the left lower lobe, which is considered to be the primary focus of known lung cancer."
+14133008,1,Pleural effusion on the left.
+14133008,2,Pleural dissemination cannot be ruled out.
+14133008,3,"The lymph nodes below the tracheal bifurcation are enlarged, suspicious of metastases."
+14133817,0,"Chest:
+Emphysematous changes.
+"
+14133817,1,"A 40 mm tumor is located in the right lower lobe, accompanied by pleural invasion."
+14133817,2,Lung cancer is suspected.
+14133817,3,"A bronchial mucus plug is suspected below the tumor, but a tumor thrombus cannot be ruled out.
+"
+14133817,4,"There is a faint ground-glass opacity in the right upper lobe, which may be an inflammatory change."
+14133817,5,"Please follow up.
+"
+14133817,6,"The right hilar lymph nodes are slightly enlarged, suggesting metastases."
+14133817,7,"No enlargement of the mediastinal lymph nodes.
+"
+14133817,8,"No pleural effusion.
+
+"
+14133817,9,"Abdomen to Pelvic area:
+Multiple tumors are found in the liver, suggesting multiple liver metastases.
+"
+14133817,10,Numerous gallstones.
+14133817,11,"Also, there's a stone in the common bile duct stone, and the upstream common bile duct is dilated.
+"
+14133817,12,"There is a nodule in contact with the hepatic portal area and gallbladder, suggesting lymph node metastasis.
+"
+14133817,13,"A left renal cyst is present.
+"
+14133817,14,"No enlargement of the para-aortic lymph nodes.
+"
+14133817,15,Ascites is present.
+15005039,0,"No comparable imaging studies are available. 
+"
+15005039,1,"A lobulated tumor mass, measuring 46 mm in the longest dimension, is observed in the right lung apex, which is considered to be a finding of known lung cancer. 
+"
+15005039,2,Centrilobular emphysema is seen mainly in the upper lung.
+15005039,3,"There are no obvious metastases or other active lesions in the lungs. 
+"
+15005039,4,"Enlargement of the right lower paratracheal lymph node is observed, suggesting metastasis."
+15005039,5,"The size of the lymph nodes below the tracheal bifurcation and on the opposite mediastinum is also somewhat prominent, but the findings are nonspecific. 
+"
+15005039,6,"No pleural effusion. 
+"
+15005039,7,"A tumor measuring approximately 58 mm in the longest dimension is observed in the left adrenal gland, raising suspicion of metastasis. 
+"
+15005039,8,"No other obvious abnormalities in the visualized upper abdomen. 
+"
+15005039,9,"No ascites. 
+"
+15005039,10,No other significant findings.
+15045923,0,"A tumor shadow of 50 mm is located in the apex of the right lung with irregular shape and spiculated margins, suggesting lung cancer."
+15045923,1,"It is widely in contact with the chest wall, suspecting infiltration."
+15045923,2,"There are interstitial changes such as mild emphysematous changes mainly subpleural, reticular opacities, and ground-glass opacities."
+15045923,3,No significant lymph node enlargement in the mediastinum.
+15045923,4,There is no pleural effusion.
+15059875,0,"There is a lobulated tumor with a long diameter of 4.0 cm in the right lower lobe of the lung, suspecting lung cancer."
+15059875,1,"There are nodular opacities around the lesion, suspected to be obstructive atelectasis due to the tumor."
+15059875,2,"It is considered T2.
+"
+15059875,3,"Lymph node enlargement is seen on the right side of the trachea, suspecting metastasis."
+15059875,4,No enlargement is observed in the lymph nodes on the opposite side.
+15059875,5,"It is considered N2.
+"
+15059875,6,"No pleural effusion.
+"
+15059875,7,"Multiple tumors are found in the liver, suspecting multiple metastases."
+15059875,8,"It is considered M1c.
+"
+15059875,9,"No tumorous lesions in the adrenal glands.
+"
+15059875,10,Significant dilation of the common bile duct and intrahepatic bile duct.
+15059875,11,"A hypodense stone is seen in the lower common bile duct.
+"
+15059875,12,"A cyst is found in the left kidney.
+"
+15059875,13,"No significant findings in the spleen.
+"
+15059875,14,"No abdominal lymph node enlargement.
+"
+15059875,15,"Ascites is present in the pelvic cavity.
+"
+15059875,16,No findings suggesting bone metastasis.
+15095613,0,Severe emphysematous changes.
+15095613,1,"There is an irregular tumor of 47 mm in the upper lobe of the left lung, suspecting lung cancer."
+15095613,2,The tumor has narrowed the upper lobe bronchus.
+15095613,3,"Also, the tumor is closely associated with the main trunk of the left pulmonary artery, raising suspicion of invasion."
+15095613,4,Please re-evaluate in contrast-enhanced imaging.
+15095613,5,"The tumor is also in contact with the mediastinum near the aortic arch, and evaluation of mediastinal invasion by contrast-enhanced images is recommended."
+15095613,6,The tumor appears to be a mass with the left hilum lymph nodes.
+15095613,7,No coarse mediastinal lymphadenopathy.
+15095613,8,No pleural effusion.
+15410359,0,"No comparable imaging studies are available.
+"
+15410359,1,A tumor mass measuring 50 mm in diameter is located in the right lung apex.
+15410359,2,The lesion is in close proximity to the pleura and extends close to the ribs.
+15410359,3,"There is a possibility of pleural invasion.
+"
+15410359,4,Small nodules are found in the right upper lobe.
+15410359,5,"Their size is too small for a specific diagnosis, please follow up.
+"
+15410359,6,Centrilobular emphysema is seen mainly in the upper lungs.
+15410359,7,"Interstitial changes such as ground-glass opacities, reticular opacities, and cystic changes are seen in the peripheral areas of both lower lobes.
+"
+15410359,8,"No other obvious active lesions are observed in the lungs.
+"
+15410359,9,"The size of the lymph nodes at the right hilum and below the tracheal bifurcation is noticeable, suggesting the possibility of metastasis."
+15410359,10,"Please also evaluate with PET-CT.
+"
+15410359,11,"No other significant lymph node enlargement visualized.
+"
+15410359,12,"No pleural effusion.
+"
+15410359,13,A hypodense tumor is found in the left adrenal gland.
+15410359,14,"Detailed evaluation is difficult as it is only partially visualized, but metastasis cannot be ruled out."
+15410359,15,"Please consider additional abdominal CT.
+"
+15410359,16,"No other obvious abnormalities in the visualized upper abdomen.
+"
+15410359,17,"No ascites.
+"
+15410359,18,No other significant findings.
+15465590,0,"There is a tumor with a long diameter of 72 mm in the left lower lobe, suspecting primary lung cancer."
+15465590,1,Ground-glass opacity and interlobular septal thickening are present around the tumor.
+15465590,2,There is a possibility of lymphangitic carcinomatosis.
+15465590,3,"A few lymph nodes in the left axilla are enlarged, suspecting metastasis."
+15465590,4,Pleural effusion on the left.
+15465590,5,"Osteolytic lesions are found in the left humerus and scapula, suspecting bone metastasis."
+15465590,6,No obvious abnormalities in the visualized upper abdomen.
+15465590,7,"Subcutaneous nodules in the chest and back are observed, suspecting benign nodules such as sebaceous cysts."
+15654062,0,"An irregular tumor mass of 46 mm is located in the apex of the right lung, suggesting lung cancer."
+15654062,1,"It is widely in contact with the pleura, and there is a possibility of infiltration.
+"
+15654062,2,"Bronchiectases in the left upper lobe.
+"
+15654062,3,"Enlarged lymph nodes in the mediastinum, suggesting metastasis.
+"
+15654062,4,"There is no pleural effusion.
+"
+15654062,5,"There is a tumor in the left adrenal region, with an increased density of the surrounding fat tissue."
+15654062,6,Differential diagnoses include metastasis and hematoma.
+15702092,0,"There is a large tumor with a diameter of 12 cm in the left upper lobe of the lung, which is believed to be a known primary lesion."
+15702092,1,Mediastinal infiltration is suspected.
+15702092,2,There are also two small nodules around it.
+15702092,3,"Lung cancer with intra-lobe metastasis is suggested.
+"
+15702092,4,Left mediastinal lymph node metastasis is suspected.
+15702092,5,No coarse lesions in the upper abdomen.
+15853567,0,"Emphysematous changes.
+"
+15853567,1,A tumor mass of 40 mm is found in the right lower lobe.
+15853567,2,"Lung cancer is suspected.
+"
+15853567,3,"Ground-glass opacities are scattered in the right upper lobe, possibly inflammatory changes, recommended to follow up.
+"
+15853567,4,"No significant lymph node enlargement in the mediastinum.
+"
+15853567,5,"There is no pleural effusion.
+"
+15853567,6,"Hypodense tumors are scattered in the liver, and multiple liver metastases are suspected.
+"
+15853567,7,"Gallstones.
+"
+15853567,8,"Common bile duct stones, accompanied by bile duct dilation.
+"
+15853567,9,"A cyst is found in the left kidney.
+"
+15853567,10,"No significant lymph node enlargement in the periaortic region.
+"
+15853567,11,There is ascites in the pelvic region.
+16564891,0,A nodule is present in the right hilum to the right bronchus (the nodular part is approximately 17 mm).
+16564891,1,Primary bronchial carcinoma (adenosquamous carcinoma) originating from the right hilum bronchus is suspected.
+16564891,2,"The ventilation of the right lower and middle lobes is decreased, and air bronchograms and mucus plugs are also observed, considered to be an obstructive atelectasis of the right lower and middle lobes due to bronchial carcinoma."
+16564891,3,"The ventilation of the right upper lobe is normal.
+"
+16564891,4,"No obvious nodules in the left lung.
+"
+16564891,5,"The right hilar lymph nodes are conglomerated, and lymph node metastasis is suspected."
+16564891,6,"The mediastinal lymph nodes are also enlarged, suggesting metastasis."
+16573882,0,"Mild emphysematous changes.
+"
+16573882,1,"There is a 12 mm subpleural nodule in the right lower lobe, considered to be the indicated lung cancer lesion.
+"
+16573882,2,"No significant lymph node enlargement in the mediastinum.
+"
+16573882,3,There is no pleural effusion.
+16625166,0,"A tumorous lesion accompanied by a atelectatic lung is observed in the left upper lobe, suggesting to be a finding of known lung cancer."
+16625166,1,Infiltration into the pleura and mediastinum is suspected.
+16625166,2,"The hilar lymph nodes appear enlarged, indicating a possibility of metastasis."
