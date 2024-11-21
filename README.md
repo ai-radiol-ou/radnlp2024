@@ -3,6 +3,17 @@
 
 RadNLP2024のタスクの方針です。
 
+GPT系をそのまま
+SLMをfinetuning 
+  MeLAMA→huggingface
+  いくつか案
+医療pretrainedなbert
+
+
+実験→評価→レポート作成
+
+
+
 ## 目次
 
 - [概要](#概要)
