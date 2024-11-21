@@ -1,0 +1,8 @@
+(i) Omttable - 明らかに，陰性所見のみであるか，または肺癌のステージと無関係な内容である区間。ここでの「明らかに」とは，肺癌ステージング基準についての知識を用いなくても容易に判定できる程度を想定しています。
+(ii) Measure - Omittable に該当せず，かつ主に原発巣の大きさについて述べている区間。
+(iii) Estension - Omittable に該当せず，かつ原発巣の進展範囲について述べている区間。
+(iv) Atelectasis - Omittable に該当せず，かつ無気肺もしくは閉塞性肺炎を示している区間。
+(v) Satelliite - Omittable に該当せず，かつ原発巣とは離れた肺内悪性病変 (肺内転移や癌性リンパ管症など) を示している区間。
+(vi) Lymphadenopathy - Omittable に該当せず，かつ領域リンパ節腫大を示している区間。
+(vii) Pleural - Omittable に該当せず，かつ胸水，心嚢水，胸膜播種，心膜播種を示している区間。
+(viii) Distant - Omittable に該当せず，かつ遠隔転移を示している区間。
