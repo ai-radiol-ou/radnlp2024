@@ -12,7 +12,12 @@ SLMをfinetuning
 
 実験→評価→レポート作成
 
+### prepare_jsondataset.py
+与えられたデータセットからhuggingface用のデータセットに整形してjsonとして保存するコード。finetune_jsonsというフォルダの中にtrain,valそれぞれデータセットが作成される。
 
+ ```bash
+python prepare_jsondataset.py
+ ```
 
 ## 目次
 
