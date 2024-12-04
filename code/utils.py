@@ -26,6 +26,7 @@ def validate_and_correct_tnm_output(tnm_stage):
     TNM分類の形式を検証し、不正な形式の場合は修正する。
     TNM以外の文字を除去し、必要な半角スペースを追加する。
     """
+    tnm_stage = tnm_stage.split('end')[0]   # end_ 以降の文字を削除
     # TNM以外の文字（漢字、ひらがな、改行、全角スペースなど）を除去
     tnm_stage = re.sub(r"[^\w]", "", tnm_stage)  # 非単語（アルファベット、数字、アンダースコア以外）を削除
     tnm_stage = re.sub(r"[ぁ-んァ-ン一-龥]", "", tnm_stage)  # 日本語文字を削除
