@@ -1,0 +1,9 @@
+{"time":"2024-11-29T00:40:53.127640773+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T00:40:53.127708343+09:00","level":"INFO","msg":"created symlink","path":"/home/jubuntu/pCloudDrive/radnlp2024/code/wandb/run-20241129_004053-ysy7nbz6/logs/debug-core.log"}
+{"time":"2024-11-29T00:40:53.232514772+09:00","level":"INFO","msg":"created new stream","id":"ysy7nbz6"}
+{"time":"2024-11-29T00:40:53.232652833+09:00","level":"INFO","msg":"stream: started","id":"ysy7nbz6"}
+{"time":"2024-11-29T00:40:53.232693323+09:00","level":"INFO","msg":"sender: started","stream_id":"ysy7nbz6"}
+{"time":"2024-11-29T00:40:53.232693183+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"ysy7nbz6"}
+{"time":"2024-11-29T00:40:53.232704153+09:00","level":"INFO","msg":"handler: started","stream_id":"ysy7nbz6"}
+{"time":"2024-11-29T00:40:53.647867222+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T00:40:55.300047212+09:00","level":"INFO","msg":"Pausing system monitor"}

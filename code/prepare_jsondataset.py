@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import json
 
 
 # ファイルパスの設定
@@ -35,7 +36,8 @@ for dataset in ['train','val']:
                 # ファインチューニング用データを追加
                 finetune_data.append({
                     "prompt": content,
-                    "completion": f"{t} {n} {m}"
+                    "completion": f"{t} {n} {m}",
+                    "id": file_id,
                 })
 
     # ファインチューニング用データをJSONL形式で保存
