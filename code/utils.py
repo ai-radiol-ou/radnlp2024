@@ -1,22 +1,24 @@
-# import re  # 正規表現ライブラリをインポート
+import re  # 正規表現ライブラリをインポート
 
-# def validate_and_correct_tnm_output(tnm_stage):
-#     """
-#     TNM分類の形式を検証し、不正な形式の場合は修正する。
-#     """
-#     # 正規表現でTNM分類をチェック
-#     tnm_pattern = (
-#         r"T(?:0|is|1mi|1[abc]?|2[ab]?|3|4) "  # Tの分類
-#         r"N(?:0|1|2|3) "                     # Nの分類
-#         r"M(?:0|1[abc]?)"                    # Mの分類
-#     )
-#     if re.fullmatch(tnm_pattern, tnm_stage):
-#         # 正しい形式の場合、そのまま返す
-#         return tnm_stage
-#     else:
-#         # 不正な形式の場合、デフォルト値を返す
-#         print(f"警告: 出力形式が不正です。修正します: {tnm_stage}")
-#         return "T0 N0 M0"
+def validate_and_correct_sub_output(sub_stage):
+    """
+   sub_taskの形式を検証し、不正な形式の場合は修正する。
+    """
+    # 正規表現でTNM分類をチェック
+    tnm_pattern = (
+        r"(0|1)(\s(0|1)){7}"
+    )
+    if re.fullmatch(tnm_pattern, sub_stage):
+        # 正しい形式の場合、そのまま返す
+        return sub_stage
+    else:
+        # 正規表現パターンに一致する部分を検索
+        match = re.search(tnm_pattern, sub_stage)
+        if match:
+            return match.group()  # 一致する部分文字列を返す
+        else:
+            print('no match found')
+            return '1 0 0 0 0 0 0 0'  # 一致する部分がない場合はNoneを返す
 
 import re
 import bitsandbytes as bnb
