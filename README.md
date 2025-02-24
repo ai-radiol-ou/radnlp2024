@@ -1,16 +1,7 @@
 
-# プログラムの説明書 (README)
+# OURad@RadNLP2024 shared task in NTCIR-18
 
-RadNLP2024のタスクの方針です。
-
-GPT系をそのまま
-SLMをfinetuning 
-  MeLAMA→huggingface
-  いくつか案
-医療pretrainedなbert
-
-
-実験→評価→レポート作成
+RadNLP2024のOURadチームの取り組みです。
 
 ### prepare_jsondataset.py
 与えられたデータセットからhuggingface用のデータセットに整形してjsonとして保存するコード。finetune_jsonsというフォルダの中にtrain,valそれぞれデータセットが作成される。
@@ -35,32 +26,35 @@ python prepare_jsondataset.py
 このプログラムは、以下のことを行います。
 
 - 与えられた放射線読影所見文から、肺がんのTNM分類を予測します。
-- OpenAIのLLMを使用して、テキストデータを解析します。
+- OpenAIのGPT-o1を使用して、テキストデータを解析します。
+- BertモデルやOpen-source LLMと性能の比較を行います。
 - 解析結果をCSVファイルに保存します。
 
 ## 前提条件
 
 - Python 3.7以上
 - OpenAI APIキー（環境変数として設定するか、コード内で指定）
-- 必要なPythonライブラリのインストール
-  - `langchain`
-  - `openai`
-  - `pandas`
 
 ## セットアップとインストール
+    - **仮想環境の作成**
 
-1. **Python環境のセットアップ**
+      `llm_finetune_env.yml` ファイルを使用して、conda仮想環境を構成します。
 
-   Python 3.7以上がインストールされていることを確認してください。
+      1. **仮想環境の作成とアクティベート**
 
-2. **必要なライブラリのインストール**
+         以下のコマンドを実行して、仮想環境を作成し、アクティベートします：
+        ```bash
+        conda create --name llm_finetune_env python=3.7
+        conda activate llm_finetune_env
+        ```
 
-   以下のコマンドを実行して、必要なPythonライブラリをインストールします。
+      2. **必要なライブラリのインストール**
 
-   ```bash
-   pip install langchain pandas openai
+         仮想環境内で、必要なPythonライブラリをインストールします：
 
-
+         ```bash
+         pip install langchain openai unsloth
+         ```
 
 
 3. **OpenAI APIキーの設定**
@@ -79,20 +73,26 @@ python prepare_jsondataset.py
   使用する言語モデルをリストで指定します。
 
   ```python
-  model_names = ['gpt-4', 'gpt-3.5-turbo', 'other-model-name']
+  model_names = ['gpt-4o', 'gpt-o1-preview']
   ```
+  Open-source LLMは以下を使用しました。  
+  [google/gemma-2-2b-jpn-it](https://huggingface.co/google/gemma-2-2b-jpn-it)  
+  [tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.1](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.1)  
+  [tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.1](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.1)
+
 
 - **プロンプトの読み込み**
 
   TNM分類の詳細が記載されたテキストファイル `tnm_prompt.txt` を読み込みます。
+  Sub taskではそれぞれのクラス分類が記述されたファイル`subask_prompt.txt`を読み込みます。
 
-- **プロンプトテンプレートの定義**
-
-  医師としての役割を指定し、与えられた文章からTNM分類を選択するプロンプトを定義します。
-
-- **LLMチェーンの作成**
+- **GPTモデルのfew-shot prompting(code/*_few_shot.ipynb)**
 
   `langchain` を使用して、言語モデルとプロンプトテンプレートを組み合わせたチェーンを作成します。
+
+- **Open-source LLMの作成 (code/*_task_llm_finetune.ipynb)**
+
+  `unsloth` ライブラリを使用して、既存のモデルをQloraによりfinetuningを行います。
 
 - **テキストデータの読み込み**
 
@@ -121,14 +121,11 @@ python prepare_jsondataset.py
 3. **プロンプトテキストの準備**
 
    `tnm_prompt.txt` ファイルに、TNM分類の詳細情報を記載しておきます。
+   `subtask_prompt.txt` ファイルに、subtaskの分類基準を記載しておきます。
 
 4. **プログラムの実行**
 
-   ターミナルから以下のコマンドを実行します：
-
-   ```bash
-   python your_script_name.py
-   ```
+   それぞれのipynbファイルを実行してください。
 
 5. **結果の確認**
 
