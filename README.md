@@ -36,7 +36,7 @@ python prepare_jsondataset.py
 - OpenAI APIキー（環境変数として設定するか、コード内で指定）
 
 ## セットアップとインストール
-    - **仮想環境の作成**
+  - **仮想環境の作成**
 
       `llm_finetune_env.yml` ファイルを使用して、conda仮想環境を構成します。
 
